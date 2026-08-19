@@ -23,12 +23,12 @@ Every developer needs system info collector — but existing tools are either to
 
 ## Features
 
-- **CPU/Memory/Disk info** — CPU/Memory/Disk info
-- **Network configuration** — Network configuration
-- **Process information** — Process information
-- **Hardware details** — Hardware details
-- **Export to JSON/CSV** — Export to JSON/CSV
-- **CLI interface** — CLI interface
+- CPU/Memory/Disk info
+- Network configuration
+- Process information
+- Hardware details
+- Export to JSON/CSV
+- CLI interface
 
 ## Quick Start
 
