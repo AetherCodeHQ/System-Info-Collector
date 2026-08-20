@@ -7,7 +7,7 @@
 ![Lint](https://img.shields.io/badge/GolangCI--Lint-Passing-00ADD8?style=for-the-badge)
 ![Dependabot](https://img.shields.io/badge/Dependabot-Enabled-025E9C?style=for-the-badge&logo=dependabot&logoColor=white)
 
-> System-Info-Collector - Open source tool by Qyroxen
+> System-Info-Collector - Open source tool by AetherCodeHQ
 
 `cli` `collection` `golang` `info` `open-source` `system` `utilities`
 
@@ -30,7 +30,7 @@
 
 ### Install from source
 ```bash
-git clone https://github.com/Qyroxen/System-Info-Collector.git
+git clone https://github.com/AetherCodeHQ/System-Info-Collector.git
 cd System-Info-Collector
 go build -o System-Info-Collector .
 ```
@@ -95,7 +95,7 @@ go build -o System-Info-Collector .
 
 ```bash
 # Clone the repo
-git clone https://github.com/Qyroxen/System-Info-Collector.git
+git clone https://github.com/AetherCodeHQ/System-Info-Collector.git
 cd System-Info-Collector
 
 # Build
@@ -123,5 +123,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/Qyroxen">AetherCode</a> • <a href="https://github.com/AetherCode-Core">AetherCode-Core</a>
+  Built with ❤️ by <a href="https://github.com/AetherCodeHQ">AetherCode</a> • <a href="https://github.com/AetherCode-Core">AetherCode-Core</a>
 </p>
